@@ -6,6 +6,8 @@ scikit-learn
 xgboost
 ipykernel
 jupyter
+notebook
+openpyxl
 
 
 
