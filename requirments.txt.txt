@@ -2,7 +2,8 @@ numpy
 pandas
 seaborn
 matplotlib
-sklearn
+scikit-learn
 xgboost
 python==3.10.19
+
 
